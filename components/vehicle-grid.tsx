@@ -45,13 +45,13 @@ const vehicles = [
     inboundPrice: 'k900',
     outboundPrice: 'k1300',
   },
-  {
-    id: 7,
-    name: 'Honda Fit Aria',
-    image: '/vehicles/honda fit.jpg',
-    inboundPrice: 'k500',
-    outboundPrice: 'k900',
-  },
+  // {
+  //   id: 7,
+  //   name: 'Honda Fit Aria',
+  //   image: '/vehicles/honda fit.jpg',
+  //   inboundPrice: 'k500',
+  //   outboundPrice: 'k900',
+  // },
   // {
   //   id: 8,
   //   name: 'Lexus IS',
